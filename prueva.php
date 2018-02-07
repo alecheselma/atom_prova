@@ -11,6 +11,7 @@ echo("holad45ijd");
 echo("hola");
 
 unset($ficheros1[1]);
+unset($ficheros1[1]);
 
 
 foreach ($ficheros1 as &$valor) {
@@ -20,6 +21,9 @@ foreach ($ficheros1 as &$valor) {
     echo("holad45ijd");
       echo("holad45ijd");
         echo("holad45ijd");
+          echo("holad45ijd");
+
+            echo("holad45ijd");
 
     echo("holad45ijd");
 
