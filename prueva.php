@@ -12,6 +12,7 @@ echo("hola");
 
 unset($ficheros1[1]);
 unset($ficheros1[1]);
+unset($ficheros1[1]);
 
 
 foreach ($ficheros1 as &$valor) {
